@@ -1,5 +1,4 @@
 # cookbook
-My Cookbook of code.
 
-## What does it contain?
-Just some basic code, nothing special.
+## What is this?
+Just me getting my feet wet using git and github.
